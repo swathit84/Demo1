@@ -1,7 +1,10 @@
 Change 1
+<<<<<<< HEAD
 
 
 Change 2
 
 Change 3
 
+=======
+>>>>>>> parent of 88c865c... Commit 2
